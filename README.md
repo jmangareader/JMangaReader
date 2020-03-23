@@ -1,1 +1,4 @@
 # JMangaReader
+
+截图:
+
